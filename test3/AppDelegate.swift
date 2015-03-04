@@ -4,7 +4,7 @@
 //
 //  Created by DR. EHSAN on 3/4/15.
 //  Copyright (c) 2015 Monzurul Ehsan. All rights reserved.
-//
+//  This file contains the AppDelegate singleton object
 
 import UIKit
 
